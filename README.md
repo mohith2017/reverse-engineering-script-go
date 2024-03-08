@@ -1,5 +1,7 @@
 The challenge located at https://ciphersprint.pulley.com/
 
+A Go script to help reverse engineer and find the flag
+
 Main file for execution:
 - `pulley.go`
 
